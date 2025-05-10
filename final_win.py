@@ -7,7 +7,7 @@ from PyQt5.QtWidgets import (
       
 from instr import *
 
- #Raid
+ #Raid is the best programmer
 
 class FinalWin(QWidget):
     def __init__(self):
